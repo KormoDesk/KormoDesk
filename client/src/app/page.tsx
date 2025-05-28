@@ -6,13 +6,12 @@ import {
   AlertDialogContent,
   AlertDialogDescription,
   AlertDialogFooter,
-  AlertDialogHeader,
-  AlertDialogPortal,
+  AlertDialogHeader, 
   AlertDialogTitle,
   AlertDialogTrigger,
 } from "@/components/ui/alert-dialog";
 import { Button } from "@/components/ui/button";
-import { Cover } from "@/components/ aceternity/cover";
+import { Cover } from "@/components/aceternity/cover";
 import React from "react";
 // Import Swiper React components
 import { Swiper, SwiperSlide } from "swiper/react";
